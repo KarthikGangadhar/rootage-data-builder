@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/KarthikGangadhar/rootage-data-builder#readme",
   "dependencies": {
+    "arraystream": "0.0.5",
+    "event-stream": "^3.3.4",
     "request": "^2.85.0"
   }
 }
