@@ -1,0 +1,29 @@
+{
+  "name": "rootage-data-builder",
+  "version": "1.0.0",
+  "description": "This is a node based Script which will update json data to rootage-api",
+  "main": "rootBuilder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/rootage-data-builder.git"
+  },
+  "keywords": [
+    "builder",
+    "rootage",
+    "json",
+    "write",
+    "request"
+  ],
+  "author": "kgangadhar <karthikg1643@gmail.com> (https://github.com/karthikgangadhar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/rootage-data-builder/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/rootage-data-builder#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
