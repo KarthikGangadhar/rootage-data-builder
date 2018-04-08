@@ -138,10 +138,7 @@
         "year": "1903",
         "category": "physics",
         "share": "4",
-        "motivation": "\"in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel\"",
-        "affiliations": [
-          []
-        ]
+        "motivation": "\"in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel\""
       },
       {
         "year": "1911",
@@ -685,10 +682,10 @@
     "died": "1978-09-26",
     "bornCountry": "Sweden",
     "bornCountryCode": "SE",
-    "bornCity": "Lund",
+    "bornCity": "Örebro",
     "diedCountry": "Sweden",
     "diedCountryCode": "SE",
-    "diedCity": "Ängelholm",
+    "diedCity": "Stockholm",
     "gender": "male",
     "prizes": [{
       "year": "1924",
@@ -2868,10 +2865,13 @@
     "firstname": "Nicolaas",
     "surname": "Bloembergen",
     "born": "1920-03-11",
-    "died": "0000-00-00",
+    "died": "2017-09-05",
     "bornCountry": "the Netherlands",
     "bornCountryCode": "NL",
     "bornCity": "Dordrecht",
+    "diedCountry": "USA",
+    "diedCountryCode": "US",
+    "diedCity": "Tucson, AZ",
     "gender": "male",
     "prizes": [{
       "year": "1981",
@@ -3394,10 +3394,13 @@
     "firstname": "Richard E.",
     "surname": "Taylor",
     "born": "1929-11-02",
-    "died": "0000-00-00",
+    "died": "2018-02-22",
     "bornCountry": "Canada",
     "bornCountryCode": "CA",
     "bornCity": "Medicine Hat, Alberta",
+    "diedCountry": "USA",
+    "diedCountryCode": "US",
+    "diedCity": "Stanford, CA",
     "gender": "male",
     "prizes": [{
       "year": "1990",
@@ -7268,7 +7271,7 @@
     "died": "1934-10-17",
     "bornCountry": "Spain",
     "bornCountryCode": "ES",
-    "bornCity": "Petilla de Aragó",
+    "bornCity": "Petilla de Aragón",
     "diedCountry": "Spain",
     "diedCountryCode": "ES",
     "diedCity": "Madrid",
@@ -9393,7 +9396,7 @@
     "firstname": "Peyton",
     "surname": "Rous",
     "born": "1879-10-05",
-    "died": "1972-02-16",
+    "died": "1970-02-16",
     "bornCountry": "USA",
     "bornCountryCode": "US",
     "bornCity": "Baltimore, MD",
@@ -10693,7 +10696,7 @@
     "id": "436",
     "firstname": "Susumu",
     "surname": "Tonegawa",
-    "born": "1939-09-06",
+    "born": "1939-09-05",
     "died": "0000-00-00",
     "bornCountry": "Japan",
     "bornCountryCode": "JP",
@@ -11271,10 +11274,13 @@
     "firstname": "Günter",
     "surname": "Blobel",
     "born": "1936-05-21",
-    "died": "0000-00-00",
+    "died": "2018-02-18",
     "bornCountry": "Germany (now Poland)",
     "bornCountryCode": "PL",
     "bornCity": "Waltersdorf (now Niegoslawice)",
+    "diedCountry": "USA",
+    "diedCountryCode": "US",
+    "diedCity": "New York, NY",
     "gender": "male",
     "prizes": [{
       "year": "1999",
@@ -11308,10 +11314,7 @@
     "prizes": [{
       "year": "1901",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11330,10 +11333,7 @@
     "prizes": [{
       "year": "1901",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11352,10 +11352,7 @@
     "prizes": [{
       "year": "1902",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11374,10 +11371,7 @@
     "prizes": [{
       "year": "1902",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11396,10 +11390,7 @@
     "prizes": [{
       "year": "1903",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11411,10 +11402,7 @@
     "prizes": [{
       "year": "1904",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11433,10 +11421,7 @@
     "prizes": [{
       "year": "1905",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11455,10 +11440,7 @@
     "prizes": [{
       "year": "1906",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11477,10 +11459,7 @@
     "prizes": [{
       "year": "1907",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11523,10 +11502,7 @@
     "prizes": [{
       "year": "1908",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11545,10 +11521,7 @@
     "prizes": [{
       "year": "1908",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11567,10 +11540,7 @@
     "prizes": [{
       "year": "1909",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11589,10 +11559,7 @@
     "prizes": [{
       "year": "1909",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11604,10 +11571,7 @@
     "prizes": [{
       "year": "1910",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11626,10 +11590,7 @@
     "prizes": [{
       "year": "1911",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11648,10 +11609,7 @@
     "prizes": [{
       "year": "1911",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11670,10 +11628,7 @@
     "prizes": [{
       "year": "1912",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11692,10 +11647,7 @@
     "prizes": [{
       "year": "1913",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11707,26 +11659,17 @@
     "prizes": [{
         "year": "1917",
         "category": "peace",
-        "share": "1",
-        "affiliations": [
-          []
-        ]
+        "share": "1"
       },
       {
         "year": "1944",
         "category": "peace",
-        "share": "1",
-        "affiliations": [
-          []
-        ]
+        "share": "1"
       },
       {
         "year": "1963",
         "category": "peace",
-        "share": "2",
-        "affiliations": [
-          []
-        ]
+        "share": "2"
       }
     ]
   },
@@ -11746,10 +11689,7 @@
     "prizes": [{
       "year": "1919",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11768,10 +11708,7 @@
     "prizes": [{
       "year": "1920",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11790,10 +11727,7 @@
     "prizes": [{
       "year": "1921",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11812,10 +11746,7 @@
     "prizes": [{
       "year": "1921",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11834,10 +11765,7 @@
     "prizes": [{
       "year": "1922",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -11856,10 +11784,7 @@
     "prizes": [{
       "year": "1925",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11878,10 +11803,7 @@
     "prizes": [{
       "year": "1925",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11900,10 +11822,7 @@
     "prizes": [{
       "year": "1926",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11922,10 +11841,7 @@
     "prizes": [{
       "year": "1926",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11944,10 +11860,7 @@
     "prizes": [{
       "year": "1927",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11966,10 +11879,7 @@
     "prizes": [{
       "year": "1927",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -11988,10 +11898,7 @@
     "prizes": [{
       "year": "1929",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12010,10 +11917,7 @@
     "prizes": [{
       "year": "1930",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12032,10 +11936,7 @@
     "prizes": [{
       "year": "1931",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12078,10 +11979,7 @@
     "prizes": [{
       "year": "1933",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12100,10 +11998,7 @@
     "prizes": [{
       "year": "1934",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12122,10 +12017,7 @@
     "prizes": [{
       "year": "1935",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12144,10 +12036,7 @@
     "prizes": [{
       "year": "1936",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12166,10 +12055,7 @@
     "prizes": [{
       "year": "1937",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12181,10 +12067,7 @@
     "prizes": [{
       "year": "1938",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12203,10 +12086,7 @@
     "prizes": [{
       "year": "1945",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12225,10 +12105,7 @@
     "prizes": [{
       "year": "1946",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12246,10 +12123,7 @@
     "prizes": [{
       "year": "1946",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12261,10 +12135,7 @@
     "prizes": [{
       "year": "1947",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12276,10 +12147,7 @@
     "prizes": [{
       "year": "1947",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12298,10 +12166,7 @@
     "prizes": [{
       "year": "1949",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12344,10 +12209,7 @@
     "prizes": [{
       "year": "1951",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12366,10 +12228,7 @@
     "prizes": [{
       "year": "1952",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12388,10 +12247,7 @@
     "prizes": [{
       "year": "1953",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12403,18 +12259,12 @@
     "prizes": [{
         "year": "1954",
         "category": "peace",
-        "share": "1",
-        "affiliations": [
-          []
-        ]
+        "share": "1"
       },
       {
         "year": "1981",
         "category": "peace",
-        "share": "1",
-        "affiliations": [
-          []
-        ]
+        "share": "1"
       }
     ]
   },
@@ -12434,10 +12284,7 @@
     "prizes": [{
       "year": "1957",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12456,10 +12303,7 @@
     "prizes": [{
       "year": "1958",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12478,10 +12322,7 @@
     "prizes": [{
       "year": "1959",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12500,10 +12341,7 @@
     "prizes": [{
       "year": "1960",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12522,10 +12360,7 @@
     "prizes": [{
       "year": "1961",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12537,10 +12372,7 @@
     "prizes": [{
       "year": "1963",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12559,10 +12391,7 @@
     "prizes": [{
       "year": "1964",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12574,10 +12403,7 @@
     "prizes": [{
       "year": "1965",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12596,10 +12422,7 @@
     "prizes": [{
       "year": "1968",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12611,10 +12434,7 @@
     "prizes": [{
       "year": "1969",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12633,10 +12453,7 @@
     "prizes": [{
       "year": "1970",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12655,10 +12472,7 @@
     "prizes": [{
       "year": "1971",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12674,10 +12488,7 @@
     "prizes": [{
       "year": "1973",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12695,10 +12506,7 @@
     "prizes": [{
       "year": "1973",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12717,10 +12525,7 @@
     "prizes": [{
       "year": "1974",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12739,10 +12544,7 @@
     "prizes": [{
       "year": "1974",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12761,10 +12563,7 @@
     "prizes": [{
       "year": "1975",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12780,10 +12579,7 @@
     "prizes": [{
       "year": "1976",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12799,10 +12595,7 @@
     "prizes": [{
       "year": "1976",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12814,10 +12607,7 @@
     "prizes": [{
       "year": "1977",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12836,10 +12626,7 @@
     "prizes": [{
       "year": "1978",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12858,10 +12645,7 @@
     "prizes": [{
       "year": "1978",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12879,10 +12663,7 @@
     "prizes": [{
       "year": "1979",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12898,10 +12679,7 @@
     "prizes": [{
       "year": "1980",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12920,10 +12698,7 @@
     "prizes": [{
       "year": "1982",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12942,10 +12717,7 @@
     "prizes": [{
       "year": "1982",
       "category": "peace",
-      "share": "2",
-      "affiliations": [
-        []
-      ]
+      "share": "2"
     }]
   },
   {
@@ -12961,10 +12733,7 @@
     "prizes": [{
       "year": "1983",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12980,10 +12749,7 @@
     "prizes": [{
       "year": "1984",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -12995,10 +12761,7 @@
     "prizes": [{
       "year": "1985",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -13017,10 +12780,7 @@
     "prizes": [{
       "year": "1986",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -13037,10 +12797,7 @@
       "year": "1987",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for his work for peace in Central America, efforts which led to the accord signed in Guatemala on August 7 this year\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his work for peace in Central America, efforts which led to the accord signed in Guatemala on August 7 this year\""
     }]
   },
   {
@@ -13052,10 +12809,7 @@
     "prizes": [{
       "year": "1988",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -13070,10 +12824,7 @@
     "prizes": [{
       "year": "1989",
       "category": "peace",
-      "share": "1",
-      "affiliations": [
-        []
-      ]
+      "share": "1"
     }]
   },
   {
@@ -13090,10 +12841,7 @@
       "year": "1990",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for his leading role in the peace process which today characterizes important parts of the international community\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his leading role in the peace process which today characterizes important parts of the international community\""
     }]
   },
   {
@@ -13109,10 +12857,7 @@
       "year": "1991",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for her non-violent struggle for democracy and human rights\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for her non-violent struggle for democracy and human rights\""
     }]
   },
   {
@@ -13129,10 +12874,7 @@
       "year": "1992",
       "category": "peace",
       "share": "1",
-      "motivation": "\"in recognition of her work for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in recognition of her work for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples\""
     }]
   },
   {
@@ -13152,10 +12894,7 @@
       "year": "1993",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa\""
     }]
   },
   {
@@ -13172,10 +12911,7 @@
       "year": "1993",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa\""
     }]
   },
   {
@@ -13192,10 +12928,7 @@
       "year": "1994",
       "category": "peace",
       "share": "3",
-      "motivation": "\"for their efforts to create peace in the Middle East\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to create peace in the Middle East\""
     }]
   },
   {
@@ -13215,10 +12948,7 @@
       "year": "1994",
       "category": "peace",
       "share": "3",
-      "motivation": "\"for their efforts to create peace in the Middle East\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to create peace in the Middle East\""
     }]
   },
   {
@@ -13238,10 +12968,7 @@
       "year": "1994",
       "category": "peace",
       "share": "3",
-      "motivation": "\"for their efforts to create peace in the Middle East\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to create peace in the Middle East\""
     }]
   },
   {
@@ -13261,10 +12988,7 @@
       "year": "1995",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms\""
     }]
   },
   {
@@ -13277,10 +13001,7 @@
       "year": "1995",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms\""
     }]
   },
   {
@@ -13297,10 +13018,7 @@
       "year": "1996",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their work towards a just and peaceful solution to the conflict in East Timor\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their work towards a just and peaceful solution to the conflict in East Timor\""
     }]
   },
   {
@@ -13317,10 +13035,7 @@
       "year": "1996",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their work towards a just and peaceful solution to the conflict in East Timor\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their work towards a just and peaceful solution to the conflict in East Timor\""
     }]
   },
   {
@@ -13333,10 +13048,7 @@
       "year": "1997",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their work for the banning and clearing of anti-personnel mines\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their work for the banning and clearing of anti-personnel mines\""
     }]
   },
   {
@@ -13353,10 +13065,7 @@
       "year": "1997",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their work for the banning and clearing of anti-personnel mines\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their work for the banning and clearing of anti-personnel mines\""
     }]
   },
   {
@@ -13373,10 +13082,7 @@
       "year": "1998",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to find a peaceful solution to the conflict in Northern Ireland\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to find a peaceful solution to the conflict in Northern Ireland\""
     }]
   },
   {
@@ -13393,10 +13099,7 @@
       "year": "1998",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to find a peaceful solution to the conflict in Northern Ireland\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to find a peaceful solution to the conflict in Northern Ireland\""
     }]
   },
   {
@@ -13409,10 +13112,7 @@
       "year": "1999",
       "category": "peace",
       "share": "1",
-      "motivation": "\"in recognition of the organization's pioneering humanitarian work on several continents\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in recognition of the organization's pioneering humanitarian work on several continents\""
     }]
   },
   {
@@ -13432,10 +13132,7 @@
       "year": "1901",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect\""
     }]
   },
   {
@@ -13455,10 +13152,7 @@
       "year": "1902",
       "category": "literature",
       "share": "1",
-      "motivation": "\"the greatest living master of the art of historical writing, with special reference to his monumental work, <I>A history of Rome</I>\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"the greatest living master of the art of historical writing, with special reference to his monumental work, <I>A history of Rome</I>\""
     }]
   },
   {
@@ -13478,10 +13172,7 @@
       "year": "1903",
       "category": "literature",
       "share": "1",
-      "motivation": "\"as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit\""
     }]
   },
   {
@@ -13501,10 +13192,7 @@
       "year": "1904",
       "category": "literature",
       "share": "2",
-      "motivation": "\"in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Proven&ccedil;al philologist\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Proven&ccedil;al philologist\""
     }]
   },
   {
@@ -13524,10 +13212,7 @@
       "year": "1904",
       "category": "literature",
       "share": "2",
-      "motivation": "\"in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama\""
     }]
   },
   {
@@ -13547,10 +13232,7 @@
       "year": "1905",
       "category": "literature",
       "share": "1",
-      "motivation": "\"because of his outstanding merits as an epic writer\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"because of his outstanding merits as an epic writer\""
     }]
   },
   {
@@ -13570,10 +13252,7 @@
       "year": "1906",
       "category": "literature",
       "share": "1",
-      "motivation": "\"not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces\""
     }]
   },
   {
@@ -13593,10 +13272,7 @@
       "year": "1907",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author\""
     }]
   },
   {
@@ -13616,10 +13292,7 @@
       "year": "1908",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life\""
     }]
   },
   {
@@ -13639,10 +13312,7 @@
       "year": "1909",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings\""
     }]
   },
   {
@@ -13662,10 +13332,7 @@
       "year": "1910",
       "category": "literature",
       "share": "1",
-      "motivation": "\"as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories\""
     }]
   },
   {
@@ -13685,10 +13352,7 @@
       "year": "1911",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations\""
     }]
   },
   {
@@ -13708,10 +13372,7 @@
       "year": "1912",
       "category": "literature",
       "share": "1",
-      "motivation": "\"primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art\""
     }]
   },
   {
@@ -13731,10 +13392,7 @@
       "year": "1913",
       "category": "literature",
       "share": "1",
-      "motivation": "\"because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West\""
     }]
   },
   {
@@ -13754,10 +13412,7 @@
       "year": "1915",
       "category": "literature",
       "share": "1",
-      "motivation": "\"as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings\""
     }]
   },
   {
@@ -13777,10 +13432,7 @@
       "year": "1916",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in recognition of his significance as the leading representative of a new era in our literature\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in recognition of his significance as the leading representative of a new era in our literature\""
     }]
   },
   {
@@ -13800,10 +13452,7 @@
       "year": "1917",
       "category": "literature",
       "share": "2",
-      "motivation": "\"for his varied and rich poetry, which is inspired by lofty ideals\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his varied and rich poetry, which is inspired by lofty ideals\""
     }]
   },
   {
@@ -13823,10 +13472,7 @@
       "year": "1917",
       "category": "literature",
       "share": "2",
-      "motivation": "\"for his authentic descriptions of present-day life in Denmark\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his authentic descriptions of present-day life in Denmark\""
     }]
   },
   {
@@ -13846,10 +13492,7 @@
       "year": "1919",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in special appreciation of his epic, <I>Olympian Spring</I>\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in special appreciation of his epic, <I>Olympian Spring</I>\""
     }]
   },
   {
@@ -13869,10 +13512,7 @@
       "year": "1920",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his monumental work, <I>Growth of the Soil</I>\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his monumental work, <I>Growth of the Soil</I>\""
     }]
   },
   {
@@ -13892,10 +13532,7 @@
       "year": "1921",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament\""
     }]
   },
   {
@@ -13915,10 +13552,7 @@
       "year": "1922",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the happy manner in which he has continued the illustrious traditions of the Spanish drama\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the happy manner in which he has continued the illustrious traditions of the Spanish drama\""
     }]
   },
   {
@@ -13938,10 +13572,7 @@
       "year": "1923",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation\""
     }]
   },
   {
@@ -13961,10 +13592,7 @@
       "year": "1924",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his great national epic, <I>The Peasants</I>\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his great national epic, <I>The Peasants</I>\""
     }]
   },
   {
@@ -13984,10 +13612,7 @@
       "year": "1925",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty\""
     }]
   },
   {
@@ -14007,10 +13632,7 @@
       "year": "1926",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for her idealistically inspired writings which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for her idealistically inspired writings which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general\""
     }]
   },
   {
@@ -14030,10 +13652,7 @@
       "year": "1927",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented\""
     }]
   },
   {
@@ -14053,10 +13672,7 @@
       "year": "1928",
       "category": "literature",
       "share": "1",
-      "motivation": "\"principally for her powerful descriptions of Northern life during the Middle Ages\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"principally for her powerful descriptions of Northern life during the Middle Ages\""
     }]
   },
   {
@@ -14076,10 +13692,7 @@
       "year": "1929",
       "category": "literature",
       "share": "1",
-      "motivation": "\"principally for his great novel, <I>Buddenbrooks</I>, which has won steadily increased recognition as one of the classic works of contemporary literature\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"principally for his great novel, <I>Buddenbrooks</I>, which has won steadily increased recognition as one of the classic works of contemporary literature\""
     }]
   },
   {
@@ -14099,10 +13712,7 @@
       "year": "1930",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters\""
     }]
   },
   {
@@ -14122,10 +13732,7 @@
       "year": "1931",
       "category": "literature",
       "share": "1",
-      "motivation": "\"The poetry of Erik Axel Karlfeldt\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"The poetry of Erik Axel Karlfeldt\""
     }]
   },
   {
@@ -14145,10 +13752,7 @@
       "year": "1932",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his distinguished art of narration which takes its highest form in <I>The Forsyte Saga</I>\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his distinguished art of narration which takes its highest form in <I>The Forsyte Saga</I>\""
     }]
   },
   {
@@ -14168,10 +13772,7 @@
       "year": "1933",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the strict artistry with which he has carried on the classical Russian traditions in prose writing\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the strict artistry with which he has carried on the classical Russian traditions in prose writing\""
     }]
   },
   {
@@ -14191,10 +13792,7 @@
       "year": "1934",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his bold and ingenious revival of dramatic and scenic art\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his bold and ingenious revival of dramatic and scenic art\""
     }]
   },
   {
@@ -14214,10 +13812,7 @@
       "year": "1936",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy\""
     }]
   },
   {
@@ -14237,10 +13832,7 @@
       "year": "1937",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle <I>Les Thibault</I>\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle <I>Les Thibault</I>\""
     }]
   },
   {
@@ -14260,10 +13852,7 @@
       "year": "1938",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces\""
     }]
   },
   {
@@ -14283,10 +13872,7 @@
       "year": "1939",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature\""
     }]
   },
   {
@@ -14306,10 +13892,7 @@
       "year": "1944",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style\""
     }]
   },
   {
@@ -14329,10 +13912,7 @@
       "year": "1945",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world\""
     }]
   },
   {
@@ -14352,10 +13932,7 @@
       "year": "1946",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style\""
     }]
   },
   {
@@ -14375,10 +13952,7 @@
       "year": "1947",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight\""
     }]
   },
   {
@@ -14398,10 +13972,7 @@
       "year": "1948",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his outstanding, pioneer contribution to present-day poetry\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his outstanding, pioneer contribution to present-day poetry\""
     }]
   },
   {
@@ -14421,10 +13992,7 @@
       "year": "1949",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his powerful and artistically unique contribution to the modern American novel\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his powerful and artistically unique contribution to the modern American novel\""
     }]
   },
   {
@@ -14444,10 +14012,7 @@
       "year": "1950",
       "category": "literature",
       "share": "1",
-      "motivation": "\"in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought\""
     }]
   },
   {
@@ -14467,10 +14032,7 @@
       "year": "1951",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the artistic vigour and true independence of mind with which he endeavours in his poetry to find answers to the eternal questions confronting mankind\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the artistic vigour and true independence of mind with which he endeavours in his poetry to find answers to the eternal questions confronting mankind\""
     }]
   },
   {
@@ -14490,10 +14052,7 @@
       "year": "1952",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the deep spiritual insight and the artistic intensity with which he has in his novels penetrated the drama of human life\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the deep spiritual insight and the artistic intensity with which he has in his novels penetrated the drama of human life\""
     }]
   },
   {
@@ -14513,10 +14072,7 @@
       "year": "1953",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values\""
     }]
   },
   {
@@ -14536,10 +14092,7 @@
       "year": "1954",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his mastery of the art of narrative, most recently demonstrated in <I>The Old Man and the Sea,</I> and for the influence that he has exerted on contemporary style\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his mastery of the art of narrative, most recently demonstrated in <I>The Old Man and the Sea,</I> and for the influence that he has exerted on contemporary style\""
     }]
   },
   {
@@ -14559,10 +14112,7 @@
       "year": "1955",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his vivid epic power which has renewed the great narrative art of Iceland\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his vivid epic power which has renewed the great narrative art of Iceland\""
     }]
   },
   {
@@ -14582,10 +14132,7 @@
       "year": "1956",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity\""
     }]
   },
   {
@@ -14605,10 +14152,7 @@
       "year": "1957",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times\""
     }]
   },
   {
@@ -14628,10 +14172,7 @@
       "year": "1958",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition\""
     }]
   },
   {
@@ -14651,10 +14192,7 @@
       "year": "1959",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times\""
     }]
   },
   {
@@ -14674,10 +14212,7 @@
       "year": "1960",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the soaring flight and the evocative imagery of his poetry which in a visionary fashion reflects the conditions of our time\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the soaring flight and the evocative imagery of his poetry which in a visionary fashion reflects the conditions of our time\""
     }]
   },
   {
@@ -14697,10 +14232,7 @@
       "year": "1961",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country\""
     }]
   },
   {
@@ -14720,10 +14252,7 @@
       "year": "1962",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception\""
     }]
   },
   {
@@ -14743,10 +14272,7 @@
       "year": "1963",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his eminent lyrical writing, inspired by a deep feeling for the Hellenic world of culture\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his eminent lyrical writing, inspired by a deep feeling for the Hellenic world of culture\""
     }]
   },
   {
@@ -14766,10 +14292,7 @@
       "year": "1964",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age\""
     }]
   },
   {
@@ -14789,10 +14312,7 @@
       "year": "1965",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people\""
     }]
   },
   {
@@ -14812,10 +14332,7 @@
       "year": "1966",
       "category": "literature",
       "share": "2",
-      "motivation": "\"for his profoundly characteristic narrative art with motifs from the life of the Jewish people\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his profoundly characteristic narrative art with motifs from the life of the Jewish people\""
     }]
   },
   {
@@ -14835,10 +14352,7 @@
       "year": "1966",
       "category": "literature",
       "share": "2",
-      "motivation": "\"for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength\" ",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength\" "
     }]
   },
   {
@@ -14858,10 +14372,7 @@
       "year": "1967",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his vivid literary achievement, deep-rooted in the national traits and traditions of Indian peoples of Latin America\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his vivid literary achievement, deep-rooted in the national traits and traditions of Indian peoples of Latin America\""
     }]
   },
   {
@@ -14881,10 +14392,7 @@
       "year": "1968",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind\""
     }]
   },
   {
@@ -14904,10 +14412,7 @@
       "year": "1969",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation\""
     }]
   },
   {
@@ -14927,10 +14432,7 @@
       "year": "1970",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the ethical force with which he has pursued the indispensable traditions of Russian literature\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the ethical force with which he has pursued the indispensable traditions of Russian literature\""
     }]
   },
   {
@@ -14950,10 +14452,7 @@
       "year": "1971",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for a poetry that with the action of an elemental force brings alive a continent's destiny and dreams\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for a poetry that with the action of an elemental force brings alive a continent's destiny and dreams\""
     }]
   },
   {
@@ -14973,10 +14472,7 @@
       "year": "1972",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his writing which through its combination of a broad perspective on his time and a sensitive skill in characterization has contributed to a renewal of German literature\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his writing which through its combination of a broad perspective on his time and a sensitive skill in characterization has contributed to a renewal of German literature\""
     }]
   },
   {
@@ -14996,10 +14492,7 @@
       "year": "1973",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for an epic and psychological narrative art which has introduced a new continent into literature\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for an epic and psychological narrative art which has introduced a new continent into literature\""
     }]
   },
   {
@@ -15019,10 +14512,7 @@
       "year": "1974",
       "category": "literature",
       "share": "2",
-      "motivation": "\"for a narrative art, far-seeing in lands and ages, in the service of freedom\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for a narrative art, far-seeing in lands and ages, in the service of freedom\""
     }]
   },
   {
@@ -15042,10 +14532,7 @@
       "year": "1974",
       "category": "literature",
       "share": "2",
-      "motivation": "\"for writings that catch the dewdrop and reflect the cosmos\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for writings that catch the dewdrop and reflect the cosmos\""
     }]
   },
   {
@@ -15065,10 +14552,7 @@
       "year": "1975",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions\""
     }]
   },
   {
@@ -15088,10 +14572,7 @@
       "year": "1976",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the human understanding and subtle analysis of contemporary culture that are combined in his work\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the human understanding and subtle analysis of contemporary culture that are combined in his work\""
     }]
   },
   {
@@ -15111,10 +14592,7 @@
       "year": "1977",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for a creative poetic writing which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for a creative poetic writing which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars\""
     }]
   },
   {
@@ -15134,10 +14612,7 @@
       "year": "1978",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his impassioned narrative art which, with roots in a Polish-Jewish cultural tradition, brings universal human conditions to life\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his impassioned narrative art which, with roots in a Polish-Jewish cultural tradition, brings universal human conditions to life\""
     }]
   },
   {
@@ -15157,10 +14632,7 @@
       "year": "1979",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness\""
     }]
   },
   {
@@ -15180,10 +14652,7 @@
       "year": "1980",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts\""
     }]
   },
   {
@@ -15203,10 +14672,7 @@
       "year": "1981",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for writings marked by a broad outlook, a wealth of ideas and artistic power\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for writings marked by a broad outlook, a wealth of ideas and artistic power\""
     }]
   },
   {
@@ -15226,10 +14692,7 @@
       "year": "1982",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts\""
     }]
   },
   {
@@ -15249,10 +14712,7 @@
       "year": "1983",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his novels which, with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his novels which, with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today\""
     }]
   },
   {
@@ -15272,10 +14732,7 @@
       "year": "1984",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his poetry which endowed with freshness, sensuality and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his poetry which endowed with freshness, sensuality and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man\""
     }]
   },
   {
@@ -15295,10 +14752,7 @@
       "year": "1985",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition\""
     }]
   },
   {
@@ -15315,10 +14769,7 @@
       "year": "1986",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who in a wide cultural perspective and with poetic overtones fashions the drama of existence\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who in a wide cultural perspective and with poetic overtones fashions the drama of existence\""
     }]
   },
   {
@@ -15338,10 +14789,7 @@
       "year": "1987",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for an all-embracing authorship, imbued with clarity of thought and poetic intensity\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for an all-embracing authorship, imbued with clarity of thought and poetic intensity\""
     }]
   },
   {
@@ -15361,10 +14809,7 @@
       "year": "1988",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who, through works rich in nuance - now clear-sightedly realistic, now evocatively ambiguous - has formed an Arabian narrative art that applies to all mankind\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who, through works rich in nuance - now clear-sightedly realistic, now evocatively ambiguous - has formed an Arabian narrative art that applies to all mankind\""
     }]
   },
   {
@@ -15384,10 +14829,7 @@
       "year": "1989",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability\""
     }]
   },
   {
@@ -15407,10 +14849,7 @@
       "year": "1990",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for impassioned writing with wide horizons, characterized by sensuous intelligence and humanistic integrity\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for impassioned writing with wide horizons, characterized by sensuous intelligence and humanistic integrity\""
     }]
   },
   {
@@ -15430,10 +14869,7 @@
       "year": "1991",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity\""
     }]
   },
   {
@@ -15473,10 +14909,7 @@
       "year": "1993",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality\""
     }]
   },
   {
@@ -15493,10 +14926,7 @@
       "year": "1994",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today\""
     }]
   },
   {
@@ -15516,10 +14946,7 @@
       "year": "1995",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past\""
     }]
   },
   {
@@ -15539,10 +14966,7 @@
       "year": "1996",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality\""
     }]
   },
   {
@@ -15562,10 +14986,7 @@
       "year": "1997",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden\""
     }]
   },
   {
@@ -15585,10 +15006,7 @@
       "year": "1998",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality\""
     }]
   },
   {
@@ -15608,10 +15026,7 @@
       "year": "1999",
       "category": "literature",
       "share": "1",
-      "motivation": "\"whose frolicsome black fables portray the forgotten face of history\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"whose frolicsome black fables portray the forgotten face of history\""
     }]
   },
   {
@@ -15806,10 +15221,7 @@
       "year": "1974",
       "category": "economics",
       "share": "2",
-      "motivation": "\"for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena\""
     }]
   },
   {
@@ -15829,10 +15241,7 @@
       "year": "1974",
       "category": "economics",
       "share": "2",
-      "motivation": "\"for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena\""
     }]
   },
   {
@@ -16794,10 +16203,7 @@
       "year": "2000",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular\""
     }]
   },
   {
@@ -16999,10 +16405,7 @@
       "year": "2000",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for an &aelig;uvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for an &aelig;uvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama\""
     }]
   },
   {
@@ -17284,10 +16687,7 @@
       "year": "2001",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories\""
     }]
   },
   {
@@ -17300,10 +16700,7 @@
       "year": "2001",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their work for a better organized and more peaceful world\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their work for a better organized and more peaceful world\""
     }]
   },
   {
@@ -17320,10 +16717,7 @@
       "year": "2001",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their work for a better organized and more peaceful world\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their work for a better organized and more peaceful world\""
     }]
   },
   {
@@ -17375,7 +16769,7 @@
     "firstname": "John E.",
     "surname": "Sulston",
     "born": "1942-03-27",
-    "died": "0000-00-00",
+    "died": "2018-03-06",
     "bornCountry": "United Kingdom",
     "bornCountryCode": "GB",
     "bornCity": "Cambridge",
@@ -17600,10 +16994,7 @@
       "year": "2002",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history\""
     }]
   },
   {
@@ -17620,10 +17011,7 @@
       "year": "2002",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development\""
     }]
   },
   {
@@ -17640,10 +17028,7 @@
       "year": "2003",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who in innumerable guises portrays the surprising involvement of the outsider\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who in innumerable guises portrays the surprising involvement of the outsider\""
     }]
   },
   {
@@ -17870,10 +17255,7 @@
       "year": "2003",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children\""
     }]
   },
   {
@@ -18069,10 +17451,7 @@
       "year": "2004",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power\""
     }]
   },
   {
@@ -18092,10 +17471,7 @@
       "year": "2004",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for her contribution to sustainable development, democracy and peace\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for her contribution to sustainable development, democracy and peace\""
     }]
   },
   {
@@ -18360,10 +17736,7 @@
       "year": "2005",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way\""
     }]
   },
   {
@@ -18380,10 +17753,7 @@
       "year": "2005",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way\""
     }]
   },
   {
@@ -18450,10 +17820,7 @@
       "year": "2005",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms\""
     }]
   },
   {
@@ -18602,10 +17969,7 @@
       "year": "2006",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures\""
     }]
   },
   {
@@ -18622,10 +17986,7 @@
       "year": "2006",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to create economic and social development from below\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to create economic and social development from below\""
     }]
   },
   {
@@ -18638,10 +17999,7 @@
       "year": "2006",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to create economic and social development from below\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to create economic and social development from below\""
     }]
   },
   {
@@ -18806,10 +18164,7 @@
       "year": "2007",
       "category": "literature",
       "share": "1",
-      "motivation": "\"that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny\""
     }]
   },
   {
@@ -18822,10 +18177,7 @@
       "year": "2007",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change\""
     }]
   },
   {
@@ -18842,10 +18194,7 @@
       "year": "2007",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change\""
     }]
   },
   {
@@ -19151,10 +18500,7 @@
       "year": "2008",
       "category": "literature",
       "share": "1",
-      "motivation": "\"author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization\""
     }]
   },
   {
@@ -19171,10 +18517,7 @@
       "year": "2008",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for his important efforts, on several continents and over more than three decades, to resolve international conflicts\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his important efforts, on several continents and over more than three decades, to resolve international conflicts\""
     }]
   },
   {
@@ -19433,10 +18776,7 @@
       "year": "2009",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed\""
     }]
   },
   {
@@ -19453,10 +18793,7 @@
       "year": "2009",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples\""
     }]
   },
   {
@@ -19662,10 +18999,7 @@
       "year": "2010",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat\""
     }]
   },
   {
@@ -19673,9 +19007,13 @@
     "firstname": "Liu",
     "surname": "Xiaobo",
     "born": "1955-12-28",
-    "died": "0000-00-00",
+    "died": "2017-07-13",
     "bornCountry": "China",
     "bornCountryCode": "CN",
+    "bornCity": "Changchun",
+    "diedCountry": "China",
+    "diedCountryCode": "CN",
+    "diedCity": "Shenyang",
     "gender": "male",
     "prizes": [{
       "year": "2010",
@@ -19948,10 +19286,7 @@
       "year": "2011",
       "category": "literature",
       "share": "1",
-      "motivation": "\"because, through his condensed, translucent images, he gives us fresh access to reality\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"because, through his condensed, translucent images, he gives us fresh access to reality\""
     }]
   },
   {
@@ -19968,10 +19303,7 @@
       "year": "2011",
       "category": "peace",
       "share": "3",
-      "motivation": "\"for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work\""
     }]
   },
   {
@@ -19988,10 +19320,7 @@
       "year": "2011",
       "category": "peace",
       "share": "3",
-      "motivation": "\"for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work\""
     }]
   },
   {
@@ -20008,10 +19337,7 @@
       "year": "2011",
       "category": "peace",
       "share": "3",
-      "motivation": "\"for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their non-violent struggle for the safety of women and for women&apos;s rights to full participation in peace-building work\""
     }]
   },
   {
@@ -20226,10 +19552,7 @@
       "year": "2012",
       "category": "literature",
       "share": "1",
-      "motivation": "\"who with hallucinatory realism merges folk tales, history and the contemporary\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"who with hallucinatory realism merges folk tales, history and the contemporary\""
     }]
   },
   {
@@ -20242,10 +19565,7 @@
       "year": "2012",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for over six decades contributed to the advancement of peace and reconciliation, democracy and human rights in Europe\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for over six decades contributed to the advancement of peace and reconciliation, democracy and human rights in Europe\""
     }]
   },
   {
@@ -20505,10 +19825,7 @@
       "year": "2013",
       "category": "literature",
       "share": "1",
-      "motivation": "\"master of the contemporary short story\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"master of the contemporary short story\""
     }]
   },
   {
@@ -20521,10 +19838,7 @@
       "year": "2013",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for its extensive efforts to eliminate chemical weapons\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for its extensive efforts to eliminate chemical weapons\""
     }]
   },
   {
@@ -20591,72 +19905,6 @@
         "city": "New Haven, CT",
         "country": "USA"
       }]
-    }]
-  },
-  {
-    "id": "897",
-    "born": "0000-00-00",
-    "died": "0000-00-00",
-    "gender": "male",
-    "prizes": [{
-      "affiliations": [
-        []
-      ]
-    }]
-  },
-  {
-    "id": "898",
-    "born": "0000-00-00",
-    "died": "0000-00-00",
-    "gender": "male",
-    "prizes": [{
-      "affiliations": [
-        []
-      ]
-    }]
-  },
-  {
-    "id": "899",
-    "born": "0000-00-00",
-    "died": "0000-00-00",
-    "gender": "male",
-    "prizes": [{
-      "affiliations": [
-        []
-      ]
-    }]
-  },
-  {
-    "id": "900",
-    "born": "0000-00-00",
-    "died": "0000-00-00",
-    "gender": "male",
-    "prizes": [{
-      "affiliations": [
-        []
-      ]
-    }]
-  },
-  {
-    "id": "901",
-    "born": "0000-00-00",
-    "died": "0000-00-00",
-    "gender": "male",
-    "prizes": [{
-      "affiliations": [
-        []
-      ]
-    }]
-  },
-  {
-    "id": "902",
-    "born": "0000-00-00",
-    "died": "0000-00-00",
-    "gender": "male",
-    "prizes": [{
-      "affiliations": [
-        []
-      ]
     }]
   },
   {
@@ -20883,10 +20131,7 @@
       "year": "2014",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for the art of memory with which he has evoked the most ungraspable human destinies and\r\nuncovered the life-world of the occupation\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for the art of memory with which he has evoked the most ungraspable human destinies and\r\nuncovered the life-world of the occupation\""
     }]
   },
   {
@@ -20903,10 +20148,7 @@
       "year": "2014",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\""
     }]
   },
   {
@@ -20923,10 +20165,7 @@
       "year": "2014",
       "category": "peace",
       "share": "2",
-      "motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\""
     }]
   },
   {
@@ -21153,10 +20392,7 @@
       "year": "2015",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for her polyphonic writings, a monument to suffering and courage in our time\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for her polyphonic writings, a monument to suffering and courage in our time\""
     }]
   },
   {
@@ -21169,10 +20405,7 @@
       "year": "2015",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for its decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for its decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011\""
     }]
   },
   {
@@ -21181,7 +20414,7 @@
     "surname": "Deaton",
     "born": "1945-10-19",
     "died": "0000-00-00",
-    "bornCountry": "United Kingdom",
+    "bornCountry": "Scotland",
     "bornCountryCode": "GB",
     "bornCity": "Edinburgh",
     "gender": "male",
@@ -21365,10 +20598,7 @@
       "year": "2016",
       "category": "peace",
       "share": "1",
-      "motivation": "\"for his resolute efforts to bring the country's more than 50-year-long civil war to an end\"",
-      "affiliations": [
-        []
-      ]
+      "motivation": "\"for his resolute efforts to bring the country's more than 50-year-long civil war to an end\""
     }]
   },
   {
@@ -21429,10 +20659,273 @@
       "year": "2016",
       "category": "literature",
       "share": "1",
-      "motivation": "\"for having created new poetic expressions within the great American song tradition\"",
-      "affiliations": [
-        []
+      "motivation": "\"for having created new poetic expressions within the great American song tradition\""
+    }]
+  },
+  {
+    "id": "938",
+    "firstname": "Jeffrey C.",
+    "surname": "Hall",
+    "born": "0000-00-00",
+    "died": "0000-00-00",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "bornCity": "New York, NY",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "medicine",
+      "share": "3",
+      "motivation": "\"for their discoveries of molecular mechanisms controlling the circadian rhythm\"",
+      "affiliations": [{
+        "name": "University of Maine",
+        "city": "Maine, ME",
+        "country": "USA"
+      }]
+    }]
+  },
+  {
+    "id": "939",
+    "firstname": "Michael",
+    "surname": "Rosbash",
+    "born": "0000-00-00",
+    "died": "0000-00-00",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "bornCity": "Kansas City, MO",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "medicine",
+      "share": "3",
+      "motivation": "\"for their discoveries of molecular mechanisms controlling the circadian rhythm\"",
+      "affiliations": [{
+          "name": "Brandeis University",
+          "city": "Waltham, MA",
+          "country": "USA"
+        },
+        {
+          "name": "Howard Hughes Medical Institute"
+        }
       ]
+    }]
+  },
+  {
+    "id": "940",
+    "firstname": "Michael W.",
+    "surname": "Young",
+    "born": "0000-00-00",
+    "died": "0000-00-00",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "bornCity": "Miami, FL",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "medicine",
+      "share": "3",
+      "motivation": "\"for their discoveries of molecular mechanisms controlling the circadian rhythm\"",
+      "affiliations": [{
+        "name": "Rockefeller University",
+        "city": "New York, NY",
+        "country": "USA"
+      }]
+    }]
+  },
+  {
+    "id": "941",
+    "firstname": "Rainer",
+    "surname": "Weiss",
+    "born": "1932-09-29",
+    "died": "0000-00-00",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "bornCity": "Berlin",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "physics",
+      "share": "2",
+      "motivation": "\"for decisive contributions to the LIGO detector and the observation of gravitational waves\"",
+      "affiliations": [{
+          "name": "LIGO/VIRGO Collaboration"
+        },
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "city": "Cambridge, MA",
+          "country": "USA"
+        }
+      ]
+    }]
+  },
+  {
+    "id": "942",
+    "firstname": "Barry C.",
+    "surname": "Barish",
+    "born": "1936-01-27",
+    "died": "0000-00-00",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "bornCity": "Omaha, NE",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "physics",
+      "share": "4",
+      "motivation": "\"for decisive contributions to the LIGO detector and the observation of gravitational waves\"",
+      "affiliations": [{
+          "name": "LIGO/VIRGO Collaboration"
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "city": "Pasadena, CA",
+          "country": "USA"
+        }
+      ]
+    }]
+  },
+  {
+    "id": "943",
+    "firstname": "Kip S.",
+    "surname": "Thorne",
+    "born": "1940-06-01",
+    "died": "0000-00-00",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "bornCity": "Logan, UT",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "physics",
+      "share": "4",
+      "motivation": "\"for decisive contributions to the LIGO detector and the observation of gravitational waves\"",
+      "affiliations": [{
+          "name": "LIGO/VIRGO Collaboration"
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "city": "Pasadena, CA",
+          "country": "USA"
+        }
+      ]
+    }]
+  },
+  {
+    "id": "944",
+    "firstname": "Jacques",
+    "surname": "Dubochet",
+    "born": "1942-06-08",
+    "died": "0000-00-00",
+    "bornCountry": "Switzerland",
+    "bornCountryCode": "CH",
+    "bornCity": "Aigle",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "chemistry",
+      "share": "3",
+      "motivation": "\"for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution\"",
+      "affiliations": [{
+        "name": "University of Lausanne",
+        "city": "Lausanne",
+        "country": "Switzerland"
+      }]
+    }]
+  },
+  {
+    "id": "945",
+    "firstname": "Joachim",
+    "surname": "Frank",
+    "born": "1940-09-12",
+    "died": "0000-00-00",
+    "bornCountry": "Germany",
+    "bornCountryCode": "DE",
+    "bornCity": "Siegen",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "chemistry",
+      "share": "3",
+      "motivation": "\"for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution\"",
+      "affiliations": [{
+        "name": "Columbia University",
+        "city": "New York, NY",
+        "country": "USA"
+      }]
+    }]
+  },
+  {
+    "id": "946",
+    "firstname": "Richard",
+    "surname": "Henderson",
+    "born": "1945-07-19",
+    "died": "0000-00-00",
+    "bornCountry": "Scotland",
+    "bornCountryCode": "GB",
+    "bornCity": "Edinburgh",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "chemistry",
+      "share": "3",
+      "motivation": "\"for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution\"",
+      "affiliations": [{
+        "name": "MRC Laboratory of Molecular Biology",
+        "city": "Cambridge",
+        "country": "United Kingdom"
+      }]
+    }]
+  },
+  {
+    "id": "947",
+    "firstname": "Kazuo",
+    "surname": "Ishiguro",
+    "born": "1954-11-08",
+    "died": "0000-00-00",
+    "bornCountry": "Japan",
+    "bornCountryCode": "JP",
+    "bornCity": "Nagasaki",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "literature",
+      "share": "1",
+      "motivation": "\"who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world\""
+    }]
+  },
+  {
+    "id": "948",
+    "firstname": "International Campaign to Abolish Nuclear Weapons (ICAN)",
+    "born": "0000-00-00",
+    "died": "0000-00-00",
+    "gender": "org",
+    "prizes": [{
+      "year": "2017",
+      "category": "peace",
+      "share": "1",
+      "motivation": "\"for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons\""
+    }]
+  },
+  {
+    "id": "949",
+    "firstname": "Richard H.",
+    "surname": "Thaler",
+    "born": "1945-09-12",
+    "died": "0000-00-00",
+    "bornCountry": "USA",
+    "bornCountryCode": "US",
+    "bornCity": "East Orange, NJ",
+    "gender": "male",
+    "prizes": [{
+      "year": "2017",
+      "category": "economics",
+      "share": "1",
+      "motivation": "\"for his contributions to behavioural economics\"",
+      "affiliations": [{
+        "name": "University of Chicago",
+        "city": "Chicago, IL",
+        "country": "USA"
+      }]
     }]
   }
 ]
